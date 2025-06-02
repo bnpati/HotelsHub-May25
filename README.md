@@ -1,6 +1,9 @@
 <h1>🏨 HotelsHub - Your Gateway to the Perfect Stay 🏨</h1>
 
 <p><b>Version:</b> May 2025 (Prototype)</p>
+<p><strong>🔗 Project Preview Link:</strong> 
+    <a href="https://splendid-conkies-a9c324.netlify.app" target="_blank">HotelsHub (Netlify Domain)</a>
+</p>
 
 <h2>✨ About This Version ✨</h2>
 <p>HotelsHub is a prototype platform designed to simplify the process of finding and booking hotels. Our goal is to connect travelers with a wide range of accommodations, offering a user-friendly experience from discovery to booking.</p>
